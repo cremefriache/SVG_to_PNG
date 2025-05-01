@@ -1,9 +1,10 @@
 # SVG_to_PNG
 
 Windows users:
+
 • For this to work on Windows 64x, the Cairo library files need to be installed to PATH so Python/CairoSVG can find them. You can leverage MSYS2 to do this fairly easily.
 
-https://www.msys2.org/
+Download the installer and follow the instructions -> https://www.msys2.org/
 
 Install and update MSYS2 via the following:
 ```bash
